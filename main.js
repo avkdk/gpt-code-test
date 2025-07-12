@@ -1,1 +1,1 @@
-console.log('Hello, GPT!');
+console.log("🚀 ChatGPT가 자동 수정했습니다.");
